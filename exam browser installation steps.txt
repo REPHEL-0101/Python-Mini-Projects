@@ -1,0 +1,8 @@
+# Installation Steps in cmd
+pip install PyQt5
+pip install PyQtWebEngine
+pip install auto-py-to-exe
+auto-py-to-exe
+
+# in CMD type
+pip install -r req.txt
